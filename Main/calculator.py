@@ -3,3 +3,6 @@ def add(a, b):
 
 if __name__ == "__main__":
     print("Sum:", add(3, 4))
+
+def greet():
+    print("Hello from feature branch!")
